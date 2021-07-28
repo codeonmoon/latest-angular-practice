@@ -1,3 +1,1 @@
-# angular-aiq9tl
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-aiq9tl)
+This repository has all latest showcasing and development which has taken place in Angular.
